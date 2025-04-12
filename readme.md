@@ -1,12 +1,12 @@
 <center> 
-<img style="width:100%" src="https://github.com/manilmunjal/gifs/blob/main/your_cool_intro%20(1).gif">
+<img style="width:100%" src="https://github.com/RunThatGit/gifs/blob/main/your_cool_intro%20(1).gif">
 </center>
 
 
 
 
 
-<h1 align="center">Greetings, it's Manil checking in!</h1>
+<h1 align="center">Greetings, it's RunThatGit !/h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Learning in Progress">
@@ -36,10 +36,6 @@ I'm an **SRE (Site Reliability Engineering) enthusiast**, continuously exploring
 I love solving challenging problems and learning **something new every day**. I believe in automating everything that can be automated to make systems more efficient and reliable.
 
 ---
-
-## 🤝 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/manil-munjal/)
-- 💬 Feel free to reach out if you want to discuss tech, tools, or best practices in the SRE world!
 
 ---
 
