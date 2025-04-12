@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Greetings, it's RunThatGit !/h1>
+<h1 align="center">Greetings, it's RunThatGit!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Learning in Progress">
