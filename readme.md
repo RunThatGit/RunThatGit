@@ -1,5 +1,5 @@
 <center> 
-<img style="width:100%" src="https://github.com/RunThatGit/gifs/blob/main/your_cool_intro%20(1).gif">
+<img style="width:100%" src="https://github.com/RunThatGit/RunThatGit/gifs/blob/main/your_cool_intro%20(1).gif">
 </center>
 
 
